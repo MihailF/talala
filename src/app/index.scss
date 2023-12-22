@@ -1,0 +1,12 @@
+// scss entry point
+
+// here can be imports for global libs
+@import './styles/reset.scss';
+// @import './styles/normalize.css';
+@import './styles/variables.scss';
+@import './styles/fonts.scss';
+@import './styles/mixins.scss';
+@import './styles/core.scss';
+
+// local styles:
+@import './styles/index.scss';
